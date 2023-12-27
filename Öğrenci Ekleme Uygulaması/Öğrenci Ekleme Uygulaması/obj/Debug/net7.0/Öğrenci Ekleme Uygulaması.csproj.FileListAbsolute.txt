@@ -1,0 +1,14 @@
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\bin\Debug\net7.0\Öğrenci Ekleme Uygulaması.exe
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\bin\Debug\net7.0\Öğrenci Ekleme Uygulaması.deps.json
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\bin\Debug\net7.0\Öğrenci Ekleme Uygulaması.runtimeconfig.json
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\bin\Debug\net7.0\Öğrenci Ekleme Uygulaması.dll
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\bin\Debug\net7.0\Öğrenci Ekleme Uygulaması.pdb
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\Öğrenci Ekleme Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\Öğrenci Ekleme Uygulaması.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\Öğrenci Ekleme Uygulaması.AssemblyInfo.cs
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\Öğrenci Ekleme Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\Öğrenci Ekleme Uygulaması.dll
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\refint\Öğrenci Ekleme Uygulaması.dll
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\Öğrenci Ekleme Uygulaması.pdb
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\Öğrenci Ekleme Uygulaması.genruntimeconfig.cache
+C:\Users\busra\source\repos\Öğrenci Ekleme Uygulaması\Öğrenci Ekleme Uygulaması\obj\Debug\net7.0\ref\Öğrenci Ekleme Uygulaması.dll
